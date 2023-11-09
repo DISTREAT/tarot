@@ -1,0 +1,392 @@
+[
+  {
+    "file": "00-TheFool.png",
+    "name": "The Fool",
+    "meaning": "New beginnings, Free spirit, Naivety"
+  },
+  {
+    "file": "01-TheMagician.png",
+    "name": "The Magician",
+    "meaning": "Manifestation, Resourcefulness, Desire"
+  },
+  {
+    "file": "02-TheHighPriestess.png",
+    "name": "The High Priestess",
+    "meaning": "Intuition, Subconscious, Inner Voice"
+  },
+  {
+    "file": "03-TheEmpress.png",
+    "name": "The Empress",
+    "meaning": "Nurturing, Fertility, Nature, Abundance"
+  },
+  {
+    "file": "04-TheEmperor.png",
+    "name": "The Emperor",
+    "meaning": "Authority, Control, Structure"
+  },
+  {
+    "file": "05-TheHierophant.png",
+    "name": "The Hierophant",
+    "meaning": "Conformity, Tradition, Mentorship"
+  },
+  {
+    "file": "06-TheLovers.png",
+    "name": "The Lovers",
+    "meaning": "Duality, Relationship, Union, Partnership"
+  },
+  {
+    "file": "07-TheChariot.png",
+    "name": "The Chariot",
+    "meaning": "Direction, Willpower, Determination"
+  },
+  {
+    "file": "08-Strength.png",
+    "name": "Strength",
+    "meaning": "Courage, Compassion, Strength, Persuasion"
+  },
+  {
+    "file": "09-TheHermit.png",
+    "name": "The Hermit",
+    "meaning": "Introspection, Search for Truth, Contemplation, being Alone"
+  },
+  {
+    "file": "10-WheelOfFortune.png",
+    "name": "Wheel Of Fortune",
+    "meaning": "Cycles, Destiny, Change"
+  },
+  {
+    "file": "11-Justice.png",
+    "name": "Justice",
+    "meaning": "Cause and Effect, Truth, Fairness"
+  },
+  {
+    "file": "12-TheHangedMan.png",
+    "name": "The Hanged Man",
+    "meaning": "Pause, New Perspective, Letting Go, Sacrifice"
+  },
+  {
+    "file": "13-Death.png",
+    "name": "Death",
+    "meaning": "End of a Cycle, Transformation, Change, New Beginnings"
+  },
+  {
+    "file": "14-Temperance.png",
+    "name": "Temperance",
+    "meaning": "Balance, Middle Path, Patience, Finding Meaning"
+  },
+  {
+    "file": "15-TheDevil.png",
+    "name": "The Devil",
+    "meaning": "Self-imposed attachment, Restriction, Materialism, Instinct"
+  },
+  {
+    "file": "16-TheTower.png",
+    "name": "The Tower",
+    "meaning": "Sudden Change, Chaos, Awakening, Disaster"
+  },
+  {
+    "file": "17-TheStar.png",
+    "name": "The Star",
+    "meaning": "Hope, Faith, Spirituality"
+  },
+  {
+    "file": "18-TheMoon.png",
+    "name": "The Moon",
+    "meaning": "Illusion, Subconscious, Intuition, Fog, Unclear"
+  },
+  {
+    "file": "19-TheSun.png",
+    "name": "The Sun",
+    "meaning": "Positivity, Joy, Vitality"
+  },
+  {
+    "file": "20-Judgement.png",
+    "name": "Judgement",
+    "meaning": "Self-reflection, Rebirth, Awakening"
+  },
+  {
+    "file": "21-TheWorld.png",
+    "name": "The World",
+    "meaning": "Harmony, Completion, Fulfillment"
+  },
+  {
+    "file": "Cups01.png",
+    "name": "Ace of Cups",
+    "meaning": "New relationships, New feelings, Creativity"
+  },
+  {
+    "file": "Cups02.png",
+    "name": "Two of Cups",
+    "meaning": "Unity, Connection, Partnership"
+  },
+  {
+    "file": "Cups03.png",
+    "name": "Three of Cups",
+    "meaning": "Friendship, Celebration, Community"
+  },
+  {
+    "file": "Cups04.png",
+    "name": "Four of Cups",
+    "meaning": "Apathy, Contemplation, Feeling Disconnected"
+  },
+  {
+    "file": "Cups05.png",
+    "name": "Five of Cups",
+    "meaning": "Grief, Regret, Disappointment"
+  },
+  {
+    "file": "Cups06.png",
+    "name": "Six of Cups",
+    "meaning": "Nostalgia, Familiarity, Revisiting the past"
+  },
+  {
+    "file": "Cups07.png",
+    "name": "Seven of Cups",
+    "meaning": "Choice, Daydreaming, Wishful thinking, Opportunities"
+  },
+  {
+    "file": "Cups08.png",
+    "name": "Eight of Cups",
+    "meaning": "Disappointment, Abandonment, Escapism"
+  },
+  {
+    "file": "Cups09.png",
+    "name": "Nine of Cups",
+    "meaning": "Satisfaction, Emotional Stability"
+  },
+  {
+    "file": "Cups10.png",
+    "name": "Ten of Cups",
+    "meaning": "Fulfillment, Inner Happiness, Alignment"
+  },
+  {
+    "file": "Cups11.png",
+    "name": "Page of Cups",
+    "meaning": "Creative Opportunities, Intuitive Messages, Curiosity, Happy Surprise"
+  },
+  {
+    "file": "Cups12.png",
+    "name": "Knight of Cups",
+    "meaning": "Following the heart, Idealism, Romance"
+  },
+  {
+    "file": "Cups13.png",
+    "name": "Queen of Cups",
+    "meaning": "Compassion, Emotional Stability, Comfort, In flow"
+  },
+  {
+    "file": "Cups14.png",
+    "name": "King of Cups",
+    "meaning": "Emotionally Balanced, Emotional Control, Compassion"
+  },
+  {
+    "file": "Pentacles01.png",
+    "name": "Ace of Pentacles",
+    "meaning": "Financial Opportunity, Career Opportunity, Manifestation"
+  },
+  {
+    "file": "Pentacles02.png",
+    "name": "Two of Pentacles",
+    "meaning": "Balancing Decisions, Priority Management, Adaptability"
+  },
+  {
+    "file": "Pentacles03.png",
+    "name": "Three of Pentacles",
+    "meaning": "Teamwork, Collaboration, Learning a Craft"
+  },
+  {
+    "file": "Pentacles04.png",
+    "name": "Four of Pentacles",
+    "meaning": "Conservatism, Saving Resources, Security"
+  },
+  {
+    "file": "Pentacles05.png",
+    "name": "Five of Pentacles",
+    "meaning": "Poverty, Being in Need, Insecurity"
+  },
+  {
+    "file": "Pentacles06.png",
+    "name": "Six of Pentacles",
+    "meaning": "Generosity, Taking and Giving, Sharing, Charity"
+  },
+  {
+    "file": "Pentacles07.png",
+    "name": "Seven of Pentacles",
+    "meaning": "Hard Work, Long-term view, Perseverance"
+  },
+  {
+    "file": "Pentacles08.png",
+    "name": "Eight of Pentacles",
+    "meaning": "Apprenticeship, Skill Development, Repetitive tasks, High Standards"
+  },
+  {
+    "file": "Pentacles09.png",
+    "name": "Nine of Pentacles",
+    "meaning": "Abundance, Luxury, Fruits of Labor"
+  },
+  {
+    "file": "Pentacles10.png",
+    "name": "Ten of Pentacles",
+    "meaning": "Wealth, Inheritance, Long-term Success"
+  },
+  {
+    "file": "Pentacles11.png",
+    "name": "Page of Pentacles",
+    "meaning": "Ambition, Desire, Skill Development"
+  },
+  {
+    "file": "Pentacles12.png",
+    "name": "Knight of Pentacles",
+    "meaning": "Hard Work, Responsibility, Productivity"
+  },
+  {
+    "file": "Pentacles13.png",
+    "name": "Queen of Pentacles",
+    "meaning": "Nurturing, Practicality, Financial Security"
+  },
+  {
+    "file": "Pentacles14.png",
+    "name": "King of Pentacles",
+    "meaning": "Wealth, Business, Leadership, Prosperity, Discipline"
+  },
+  {
+    "file": "Swords01.png",
+    "name": "Ace of Sword",
+    "meaning": "Breakthrough, Clarity, Sharp Mind"
+  },
+  {
+    "file": "Swords02.png",
+    "name": "Two of Sword",
+    "meaning": "Difficult decision, Indecision, Weighing up options"
+  },
+  {
+    "file": "Swords03.png",
+    "name": "Three of Sword",
+    "meaning": "Heartbreak, Suffering, Sorrow, Emotional Pain"
+  },
+  {
+    "file": "Swords04.png",
+    "name": "Four of Sword",
+    "meaning": "Rest, Contemplation, Relaxation"
+  },
+  {
+    "file": "Swords05.png",
+    "name": "Five of Sword",
+    "meaning": "Conflict, Disagreement, Winning at all costs"
+  },
+  {
+    "file": "Swords06.png",
+    "name": "Six of Sword",
+    "meaning": "Transition, Leaving behind, Moving on"
+  },
+  {
+    "file": "Swords07.png",
+    "name": "Seven of Sword",
+    "meaning": "Betrayal, Trickery, Deception, Acting Strategically"
+  },
+  {
+    "file": "Swords08.png",
+    "name": "Eight of Sword",
+    "meaning": "Self-imposed imprisonment, Self-victimization, Negative Thoughts"
+  },
+  {
+    "file": "Swords09.png",
+    "name": "Nine of Sword",
+    "meaning": "Anxiety, Fear, Worry, Nightmares"
+  },
+  {
+    "file": "Swords10.png",
+    "name": "Ten of Sword",
+    "meaning": "Painful Endings, Failure, Defeat, Loss, Crisis, Deep Wounds"
+  },
+  {
+    "file": "Swords11.png",
+    "name": "Page of Sword",
+    "meaning": "New ideas, Curiosity, Thirst for Knowledge"
+  },
+  {
+    "file": "Swords12.png",
+    "name": "Knight of Sword",
+    "meaning": "Ambitious, Fast-thinking, Action-oriented, Impulsivity, Defending Believes"
+  },
+  {
+    "file": "Swords13.png",
+    "name": "Queen of Sword",
+    "meaning": "Unbiased Judgement, Clear Mindedness, Clear Boundaries"
+  },
+  {
+    "file": "Swords14.png",
+    "name": "King of Sword",
+    "meaning": "Head over Heart, Discipline, Mental Clarity, Intellectual Power, Authority"
+  },
+  {
+    "file": "Wands01.png",
+    "name": "Ace of Wands",
+    "meaning": "Inspiration, Potential, Willpower"
+  },
+  {
+    "file": "Wands02.png",
+    "name": "Two of Wands",
+    "meaning": "Planning, Making Decisions, Taking on a Journey"
+  },
+  {
+    "file": "Wands03.png",
+    "name": "Three of Wands",
+    "meaning": "Progress, Expansion, Foresight"
+  },
+  {
+    "file": "Wands04.png",
+    "name": "Four of Wands",
+    "meaning": "Home, Relaxation, Celebration"
+  },
+  {
+    "file": "Wands05.png",
+    "name": "Five of Wands",
+    "meaning": "Competition, Rivalry, Tension, Conflict"
+  },
+  {
+    "file": "Wands06.png",
+    "name": "Six of Wands",
+    "meaning": "Victory, Success, Public Recognition, Self-confidence"
+  },
+  {
+    "file": "Wands07.png",
+    "name": "Seven of Wands",
+    "meaning": "Perseverance, Defensive, Maintaining Control, Challenge"
+  },
+  {
+    "file": "Wands08.png",
+    "name": "Eight of Wands",
+    "meaning": "Fast-paced Change, Rapid Action, Movement"
+  },
+  {
+    "file": "Wands09.png",
+    "name": "Nine of Wands",
+    "meaning": "Resilience, Test of Faith, Grit, Persistence"
+  },
+  {
+    "file": "Wands10.png",
+    "name": "Ten of Wands",
+    "meaning": "Accomplishment, Burden, Responsibility"
+  },
+  {
+    "file": "Wands11.png",
+    "name": "Page of Wands",
+    "meaning": "Inspiration, Exploration, Discovery, Freedom"
+  },
+  {
+    "file": "Wands12.png",
+    "name": "Knight of Wands",
+    "meaning": "Inspired Action, Energy, Adventure, Fearlessness"
+  },
+  {
+    "file": "Wands13.png",
+    "name": "Queen of Wands",
+    "meaning": "Courage, Determination, Independence, Social Butterfly"
+  },
+  {
+    "file": "Wands14.png",
+    "name": "King of Wands",
+    "meaning": "Leader, Vision, Entrepreneur, Big Picture"
+  }
+]
